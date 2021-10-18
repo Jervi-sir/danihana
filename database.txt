@@ -1,0 +1,16 @@
+mysql://xjnxehc40lj8e0b6:e0aq13gw0qmt062d@un0jueuv2mam78uv.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/gr8vqjm2s5inym33
+
+
+Host	un0jueuv2mam78uv.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+Username	xjnxehc40lj8e0b6
+Password	e0aq13gw0qmt062d
+Port		3306
+Database	gr8vqjm2s5inym33
+
+
+
+
+
+
+
+
